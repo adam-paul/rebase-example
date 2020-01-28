@@ -1,2 +1,2 @@
 Testing rebase
-
+New command
